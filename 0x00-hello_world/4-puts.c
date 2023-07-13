@@ -1,11 +1,13 @@
 #include <stdio.h>
-int main(void)
-{
 /**
- * first c code
+ * main - first c code
+ *
  * main entry point
+ *
  * Return: Alwayse 0 (sucsses)
 */
-puts("\"Programming is like building a multilingual puzzle");
+int main(void)
+{
+puts("\'Programming is like building a multilingual puzzl');
 return (0);
 }
