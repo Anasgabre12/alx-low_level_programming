@@ -1,13 +1,13 @@
 #include <stdio.h>
 /**
- * main - first c code
+ * 
+ *main - Entr point
  *
- * main entry point
+ * Descriotion: A C programe that puts  with puts funcation 
  *
- * Return: Alwayse 0 (sucsses)
+ *Return: Always 0 (sucsess)
 */
 int main(void)
 {
-puts("\'Programming is like building a multilingual puzzl');
-return (0);
-}
+	puts("\"Programming is like building a multilingual puzzle");
+	return(0);
