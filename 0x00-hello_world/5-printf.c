@@ -1,6 +1,6 @@
 #include <stdio.h>
 	/**
-	 * main - Entry point 
+	 * main - Entry point
 	 *
 	 * Description: A cprogra,that prints with printf funcation.
 	 *
