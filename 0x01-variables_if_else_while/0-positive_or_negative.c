@@ -4,7 +4,7 @@
  /**
   * main - entry point
   *
-  * descreption: trye or false validation
+  * Descreption: This program check number and prints is positive or negative.
   *
   * Return 0 (sucsess)
  */
