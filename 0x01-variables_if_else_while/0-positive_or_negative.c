@@ -2,10 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 
-/*main - entry num*/
-/*Descreption: check number and show if it neg or pos*/
-/*Return: Always 0 (SUCSESS) */
-
+/**
+ * main - entry num
+ * Return: Always 0 (sucsess)
+*/
 int main(void)
 {
 int n;
