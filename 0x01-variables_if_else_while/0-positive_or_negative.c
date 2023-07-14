@@ -2,13 +2,13 @@
 #include <time.h>
 #include <stdio.h>
  /**
-  * main - entry point
+  * started with main - entry point
   *
-  * Descreption: This program check number and prints is positive or negative.
+  * Descreption : This programe check number is greater 0 or not
   *
-  * Return 0 (sucsess)
+  * Return: Alwayes 0 (sucsess)
  */
-int main()
+int main(void)
 {
 	int n;
 
